@@ -1,2 +1,5 @@
 registry/
-certs/
+# certs/
+*.crt
+*.csr
+*.key

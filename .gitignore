@@ -1,5 +1,5 @@
-registry/
-# certs/
+registry/docker
+
 *.crt
 *.csr
 *.key
